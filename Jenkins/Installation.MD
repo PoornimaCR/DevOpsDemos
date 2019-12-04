@@ -4,6 +4,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 ### Follow this article in **[Youtube](https://youtu.be/M32O4Yv0ANc)**
 
 ### Prerequisites
+#create redhat linux
 1. EC2 RHEL 7.x Instance [Get help here](https://www.youtube.com/watch?v=KDtS6BzJo3A)
    - With Internet Access
    - Security Group with Port `8080` open for internet
